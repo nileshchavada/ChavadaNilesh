@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nileshchavada/ChavadaNilesh/static/css/main.e6c13ad2.css",
+    "main.js": "/nileshchavada/ChavadaNilesh/static/js/main.c98e74d7.js",
+    "static/media/profile-pic.png": "/nileshchavada/ChavadaNilesh/static/media/profile-pic.c93ac9fe718b01ffc437.png",
+    "index.html": "/nileshchavada/ChavadaNilesh/index.html",
+    "main.e6c13ad2.css.map": "/nileshchavada/ChavadaNilesh/static/css/main.e6c13ad2.css.map",
+    "main.c98e74d7.js.map": "/nileshchavada/ChavadaNilesh/static/js/main.c98e74d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c98e74d7.js"
+  ]
+}
