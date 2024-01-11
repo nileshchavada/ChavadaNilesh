@@ -1,4 +1,5 @@
 {
+  "homepage": "https://nileshchavada.github.io/ChavadaNilesh",
   "name": "portfolionilesh",
   "version": "0.1.0",
   "private": true,
@@ -27,6 +28,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "format": "prettier --write ./**/*.{js,jsx,ts,tsx,css,md,json} --config ./.prettierrc.json"
@@ -54,6 +57,7 @@
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.0.1",
     "eslint-plugin-react": "^7.33.2",
+    "gh-pages": "^6.1.1",
     "prettier": "^3.1.1"
   }
 }
